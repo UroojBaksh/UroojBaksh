@@ -7,6 +7,7 @@ A data science learner on a lookout for deep learning techniques.I'm enthusiasti
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p>
+![image](https://user-images.githubusercontent.com/72161323/222690046-c0c7b6f9-7a71-4327-b5eb-0869c0fb8e7f.png)
 
 
 
@@ -52,12 +53,10 @@ OR
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
-- [Data Analysis](https://github.com/mrankitgupta) & [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
+- [Data Analysis](https://github.com/UroojBaksh/UroojBaksh.git) & [Data Visualization with Python](https://github.com/UroojBaksh/UroojBaksh.git) - by IBM
 
 - Seo optimization github
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p>
 
 <h3 align="left">Languages and Tools 🛠️ </h3>
 <p align="left"> 
@@ -84,8 +83,6 @@ OR
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://instagram.com/Lens_Killer_Ankit" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>   
 </p>
-
-<details>
 
 <br >
 
