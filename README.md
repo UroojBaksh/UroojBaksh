@@ -6,12 +6,7 @@ A data science learner on a lookout for deep learning techniques.I'm enthusiasti
 <h3 align="center">A self-taught Data Science Enthusiast from Pakistan </h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p>
-![image](https://user-images.githubusercontent.com/72161323/222690046-c0c7b6f9-7a71-4327-b5eb-0869c0fb8e7f.png)
-
-
-
-<!-- <a href="mailto: " target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=" " height="20" width="85" /></a> -->
+<p align="left"> <img src="https://user-images.githubusercontent.com/72161323/222690046-c0c7b6f9-7a71-4327-b5eb-0869c0fb8e7f.png" alt="mrankitgupta" /> </p>
 
 
 <!--
