@@ -4,8 +4,12 @@
 
 <h3 align="center">A self-taught Data Science Enthusiast from Pakistan </h3>
 
+I am a passionate data enthusiast with a strong interest in data analysis and science. Though I am relatively new to the field, I have gained valuable experience working on various projects that have allowed me to apply and develop my skills. I am always eager to learn and improve my abilities in data analysis and science, and I am excited about the opportunities that await me in this dynamic field.
 
-A data science learner on a lookout for deep learning techniques.I'm enthusiastic about fostering the best client experience through front end advancement. Love to learn and find new things. With computer engineering background, I am a quick at learning different programming language. I can function admirably freely or in a group. I stan empowering woman in tech as well as encouring people to learn tech and making career in tech more achievable and available
+Throughout my projects, I have developed a keen eye for detail and a strong ability to identify patterns and trends in data. I have also developed proficiency in using various tools such as Python, SQL, Tableau and Excel to extract, manipulate, and analyze data. I believe that my ability to work with large data sets, my attention to detail, and my problem-solving skills make me a strong candidate for any data analyst/scientist role.
+
+Furthermore, I am a quick learner and always looking for ways to expand my skillset. I am currently pursuing certifications in data analysis and data science, and I am always reading up on the latest developments in the field. My goal is to stay ahead of the curve and be able to bring new insights and ideas to any team I work with.
+I can function admirably freely or in a group. I stan empowering woman in tech as well as encouring people to learn tech and making career in tech more achievable.
 
 
 
