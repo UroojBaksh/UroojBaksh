@@ -1,6 +1,6 @@
 # Urooj-Abdel-Halim 
 A data science learner on a lookout for deep learning techniques.I'm enthusiastic about fostering the best client experience through front end advancement. Love to learn and find new things. With computer engineering background, I am a quick at learning different programming language. I can function admirably freely or in a group. I stan empowering woman in tech as well as encouring people to learn tech and making career in tech more achievable and available
-<p <h1 align="center"><a href="https://ankitgupta.bio.link"><img width="80%" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/github-header-image.png" /></h1></a></p>
+<p <h1 align="center"><a href="https://ankitgupta.bio.link"><img width="80%" src=""https://user-images.githubusercontent.com/72161323/222690046-c0c7b6f9-7a71-4327-b5eb-0869c0fb8e7f.png" /></h1></a></p>
 <h1 align="center"> </h1>
 
 <h3 align="center">A self-taught Data Science Enthusiast from Pakistan </h3>
