@@ -28,10 +28,6 @@ OR
 
 - 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence 
 
-
-- 🏆 Finalist of "Startup India Innovation Challenge 2018"
-
-
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/urooj-baksh) 
 - ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:
 
