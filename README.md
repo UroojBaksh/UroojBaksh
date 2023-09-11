@@ -43,7 +43,7 @@ OR
 
 <code>[Library Management System using Python on Django](https://github.com/mrankitgupta/Library_Management_System_Django)</code>  👨‍💻 
 
-<code>[Sales Insights - Data Analysis using Tableau & SQL](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL)</code> 📊
+<code>[Sales Insights - Data Analysis using PowerBI](https://github.com/UroojBaksh/Revenue_Insights_hospitality_Domain-Power_BI-)</code> 📊
 
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
